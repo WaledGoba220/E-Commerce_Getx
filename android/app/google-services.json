@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871622281330",
+    "project_id": "goba-shop",
+    "storage_bucket": "goba-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871622281330:android:4cc1da6b11f1e5b2001aeb",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871622281330-cit9lm1h8s1s4k8ngu1f4empa33qldhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRUxfbD2GOG8XnW_X2m03JF8ds3mmkuTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871622281330-cit9lm1h8s1s4k8ngu1f4empa33qldhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
